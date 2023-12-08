@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 substring="1.4"
+itertools = "0.12"
